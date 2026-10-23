@@ -49,3 +49,7 @@ World Wide Web Consortium. (s. f.-a). *Page structure tutorial*. https://www.w3.
 World Wide Web Consortium. (s. f.-b). *Menus tutorial*. https://www.w3.org/WAI/tutorials/menus/
 
 World Wide Web Consortium. (s. f.-c). *What's new in WCAG 2.2*. https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22
+
+---
+
+← [Imágenes accesibles](01-imagenes.md) · [Índice](../README.md) · [Siguiente: Documentos accesibles: texto, presentaciones y PDF](03-documentos-accesibles.md) →

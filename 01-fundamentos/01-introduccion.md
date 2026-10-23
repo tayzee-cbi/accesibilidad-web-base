@@ -92,3 +92,7 @@ World Wide Web Consortium. (s. f.-b). *Introduction to web accessibility*. https
 World Wide Web Consortium. (s. f.-c). *What's new in WCAG 2.2*. https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22
 
 World Wide Web Consortium. (2026). *W3C Accessibility Guidelines (WCAG) 3.0* (Working Draft). https://www.w3.org/TR/wcag-3.0/
+
+---
+
+[Índice](../README.md) · [Siguiente: Componentes de la accesibilidad web y WCAG](02-componentes-y-wcag.md) →

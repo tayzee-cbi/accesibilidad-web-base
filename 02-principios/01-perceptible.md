@@ -117,3 +117,7 @@ Carreras Montoto, O. (2012, 28 de agosto). *Tabla resumen de los requisitos de a
 World Wide Web Consortium. (s. f.-a). *What's new in WCAG 2.1*. https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21
 
 World Wide Web Consortium. (s. f.-b). *What's new in WCAG 2.2*. https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22
+
+---
+
+← [Costos y beneficios de la accesibilidad](../01-fundamentos/05-costos-y-beneficios.md) · [Índice](../README.md) · [Siguiente: Principio 2: Operable](02-operable.md) →

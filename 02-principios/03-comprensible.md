@@ -68,3 +68,7 @@ La presentación reproducía en español el texto de cada criterio de WCAG 2.0 y
 World Wide Web Consortium. (s. f.-a). *What's new in WCAG 2.1*. https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21
 
 World Wide Web Consortium. (s. f.-b). *What's new in WCAG 2.2*. https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22
+
+---
+
+← [Principio 2: Operable](02-operable.md) · [Índice](../README.md) · [Siguiente: Principio 4: Robusto](04-robusto.md) →

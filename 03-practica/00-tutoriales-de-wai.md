@@ -20,3 +20,7 @@ Consejos para empezar: https://www.w3.org/WAI/tips/
 Para una primera revisión rápida de una página, el W3C tiene también una guía de revisiones sencillas ("Easy Checks"): https://www.w3.org/WAI/test-evaluate/preliminary/
 
 Los tutoriales tienen traducciones; el listado está en https://www.w3.org/WAI/translations/
+
+---
+
+← [Principio 4: Robusto](../02-principios/04-robusto.md) · [Índice](../README.md) · [Siguiente: Imágenes accesibles](01-imagenes.md) →

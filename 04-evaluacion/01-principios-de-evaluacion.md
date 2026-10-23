@@ -82,3 +82,7 @@ World Wide Web Consortium. (s. f.-c). *Selecting evaluation tools*. https://www.
 World Wide Web Consortium. (s. f.-d). *WCAG-EM overview: WCAG evaluation methodology*. https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/
 
 World Wide Web Consortium. (2023). *Web Content Accessibility Guidelines (WCAG) 2.2*. https://www.w3.org/TR/WCAG22/
+
+---
+
+← [Formularios accesibles](../03-practica/04-formularios.md) · [Índice](../README.md)

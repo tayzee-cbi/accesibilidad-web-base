@@ -87,3 +87,7 @@ Instituto Uruguayo de Normas Técnicas. (s. f.-b). *UNIT publica las normas sobr
 Poder Ejecutivo. (2022). *Decreto N.º 406/022: Reglamentación del artículo 88 de la Ley N.º 19.924* (con su anexo "Requisitos técnicos de accesibilidad", versión 1, abril de 2022). Centro de Información Oficial. https://www.impo.com.uy/bases/decretos-originales/406-2022
 
 World Wide Web Consortium. (s. f.). *Introduction to web accessibility*. https://www.w3.org/WAI/fundamentals/accessibility-intro/
+
+---
+
+← [Diseño universal y accesibilidad web](03-diseno-universal.md) · [Índice](../README.md) · [Siguiente: Costos y beneficios de la accesibilidad](05-costos-y-beneficios.md) →

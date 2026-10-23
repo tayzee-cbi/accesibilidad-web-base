@@ -74,3 +74,7 @@ Instituto Uruguayo de Normas Técnicas. (s. f.). *Normas disponibles sin costo*.
 Revilla Muñoz, O., & Carreras Montoto, O. (2024). *Accesibilidad web: WCAG 2.2 de forma sencilla*. Usable y accesible. https://olgacarreras.blogspot.com/2024/02/libro-accesibilidad-web-wcag-22-de.html
 
 World Wide Web Consortium. (s. f.). *How to make your presentations accessible to all*. https://www.w3.org/WAI/teach-advocate/accessible-presentations/
+
+---
+
+← [Estructura de página y navegación](02-estructura-y-navegacion.md) · [Índice](../README.md) · [Siguiente: Formularios accesibles](04-formularios.md) →

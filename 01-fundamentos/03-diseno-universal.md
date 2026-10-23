@@ -113,3 +113,7 @@ Rains, S. (2011, enero). Accessibility is not inclusion. *New Mobility*, 36-37. 
 UNICEF Uruguay. (2025, 12 de noviembre). *Personas en situación de discapacidad en Uruguay: brechas en el acceso a derechos a partir del Censo 2023*. https://www.unicef.org/uruguay/infancia-en-datos/Personas-en-situacion-de-discapacidad-en-Uruguay
 
 World Wide Web Consortium. (s. f.). *Introduction to web accessibility*. https://www.w3.org/WAI/fundamentals/accessibility-intro/
+
+---
+
+← [Componentes de la accesibilidad web y WCAG](02-componentes-y-wcag.md) · [Índice](../README.md) · [Siguiente: Marco normativo en Uruguay](04-marco-normativo-uruguay.md) →

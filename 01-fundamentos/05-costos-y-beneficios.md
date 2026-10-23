@@ -97,3 +97,7 @@ UNICEF Uruguay. (2025, 12 de noviembre). *Personas en situación de discapacidad
 World Wide Web Consortium. (s. f.-a). *The business case for digital accessibility*. https://www.w3.org/WAI/business-case/
 
 World Wide Web Consortium. (s. f.-b). *Financial factors in developing a web accessibility business case for your organization* [Versión archivada]. https://www.w3.org/WAI/business-case/archive/fin
+
+---
+
+← [Marco normativo en Uruguay](04-marco-normativo-uruguay.md) · [Índice](../README.md) · [Siguiente: Principio 1: Perceptible](../02-principios/01-perceptible.md) →

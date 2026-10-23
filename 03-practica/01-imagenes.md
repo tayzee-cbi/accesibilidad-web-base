@@ -68,3 +68,7 @@ World Wide Web Consortium. (s. f.-b). *Images tutorial*. https://www.w3.org/WAI/
 World Wide Web Consortium. (s. f.-c). *Technique H67: Using null alt text and no title attribute on img elements for images that assistive technology should ignore*. https://www.w3.org/WAI/WCAG22/Techniques/html/H67
 
 World Wide Web Consortium. (s. f.-d). *What's new in WCAG 2.1*. https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21
+
+---
+
+← [Tutoriales de WAI para seguir practicando](00-tutoriales-de-wai.md) · [Índice](../README.md) · [Siguiente: Estructura de página y navegación](02-estructura-y-navegacion.md) →

@@ -35,32 +35,39 @@ Trabajar bien hoy sobre WCAG 2.2 AA es la mejor preparación para lo que venga.
 
 ## Estructura
 
-```
-accesibilidad-web-base/
-├── 01-fundamentos/
-│   ├── 01-introduccion.md
-│   ├── 02-componentes-y-wcag.md
-│   ├── 03-diseno-universal.md
-│   ├── 04-marco-normativo-uruguay.md
-│   └── 05-costos-y-beneficios.md
-├── 02-principios/
-│   ├── 01-perceptible.md
-│   ├── 02-operable.md
-│   ├── 03-comprensible.md
-│   └── 04-robusto.md
-├── 03-practica/
-│   ├── 00-tutoriales-de-wai.md
-│   ├── 01-imagenes.md
-│   ├── 02-estructura-y-navegacion.md
-│   ├── 03-documentos-accesibles.md
-│   └── 04-formularios.md
-├── 04-evaluacion/
-│   ├── 01-principios-de-evaluacion.md
-│   └── plantilla-evaluacion-wcag22.xlsx
-├── CREDITOS.md
-├── ORIGINALES.md
-└── REFERENCIAS.md
-```
+### 1. Fundamentos
+
+1. [Introducción a la accesibilidad web](01-fundamentos/01-introduccion.md)
+2. [Componentes de la accesibilidad web y WCAG](01-fundamentos/02-componentes-y-wcag.md)
+3. [Diseño universal y accesibilidad web](01-fundamentos/03-diseno-universal.md)
+4. [Marco normativo en Uruguay](01-fundamentos/04-marco-normativo-uruguay.md)
+5. [Costos y beneficios de la accesibilidad](01-fundamentos/05-costos-y-beneficios.md)
+
+### 2. Principios
+
+1. [Principio 1: Perceptible](02-principios/01-perceptible.md)
+2. [Principio 2: Operable](02-principios/02-operable.md)
+3. [Principio 3: Comprensible](02-principios/03-comprensible.md)
+4. [Principio 4: Robusto](02-principios/04-robusto.md)
+
+### 3. Práctica
+
+- [Tutoriales de WAI para seguir practicando](03-practica/00-tutoriales-de-wai.md)
+- [Imágenes accesibles](03-practica/01-imagenes.md)
+- [Estructura de página y navegación](03-practica/02-estructura-y-navegacion.md)
+- [Documentos accesibles: texto, presentaciones y PDF](03-practica/03-documentos-accesibles.md)
+- [Formularios accesibles](03-practica/04-formularios.md)
+
+### 4. Evaluación
+
+- [Evaluación de accesibilidad](04-evaluacion/01-principios-de-evaluacion.md)
+- [Plantilla de evaluación WCAG 2.2 (Excel, para descargar)](04-evaluacion/plantilla-evaluacion-wcag22.xlsx)
+
+### Además
+
+- [Créditos y materiales de terceros](CREDITOS.md)
+- [Material original (2016 a 2019)](ORIGINALES.md)
+- [Referencias](REFERENCIAS.md)
 
 | Carpeta o archivo | Contenido |
 |---|---|

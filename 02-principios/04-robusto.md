@@ -39,3 +39,7 @@ World Wide Web Consortium. (s. f.-b). *What's new in WCAG 2.2*. https://www.w3.o
 World Wide Web Consortium. (s. f.-c). *Understanding SC 4.1.1: Parsing (obsolete and removed)*. https://www.w3.org/WAI/WCAG22/Understanding/parsing
 
 World Wide Web Consortium. (s. f.-d). *WAI-ARIA overview*. https://www.w3.org/WAI/standards-guidelines/aria/
+
+---
+
+← [Principio 3: Comprensible](03-comprensible.md) · [Índice](../README.md) · [Siguiente: Tutoriales de WAI para seguir practicando](../03-practica/00-tutoriales-de-wai.md) →
